@@ -286,8 +286,7 @@ Quer aprender mais ou colaborar?
   <a href="mailto:cssbreno.dev@gmail.com">
     <img src="https://img.shields.io/badge/%F0%9F%93%A7-Contato-red"/>
   </a>
-  <a href="https://github.com/cssbreno/guia-logica-iniciantes
-/stargazers">
+  <a href="https://github.com/cssbreno/guia-logica-iniciantes">
     <img src="https://img.shields.io/github/stars/cssbreno/logica-do-zero?style=social" alt="GitHub stars"/>
   </a>
 </div>
