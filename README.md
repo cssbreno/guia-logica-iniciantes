@@ -18,6 +18,7 @@
 - [🔢 Matrizes](#-matrizes-arrays-bidimensionais)
 - [🧪 Funções (Métodos)](#-funções-métodos)
 - [✨ Pratique!](#-pratique)
+- [🔮 Desafios](#-desafios)
 - [👨‍💼 Sobre mim](#-sobre-mim)
 
 ---
