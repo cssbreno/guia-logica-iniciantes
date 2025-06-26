@@ -1,6 +1,18 @@
-# 🧠 Lógica de Programação do Zero
+# Lógica de Programação - facilitando sua vida
 
-> Um guia simples, visual e interativo para iniciantes!
+> E aí, pessoal!  
+>  
+> Esse conteúdo foi criado com a ideia de ser mais leve e amigável para quem tá começando em Lógica de Programação — sem despejar termos técnicos de cara, mas também sem deixar trazer detalhes importantes.  
+>  
+> A verdade é que lógica é uma etapa pela qual todo dev precisa passar. E, infelizmente, também é uma das que mais assustam quem tá no começo, levando muita gente a desistir. Pensando nisso, criei esse repositório.  
+>  
+> **Antes de começar, queria deixar um conselho:**  
+>  
+> Não se prende à escolha da linguagem agora. Qualquer uma vai te ajudar a aprender. O mais importante neste momento é desenvolver seu raciocínio lógico.  
+>  
+> A forma como você pensa, estrutura e resolve problemas é o que vai definir a qualidade das suas soluções. A linguagem é só a ferramenta que traduz isso em código.  
+>  
+> Foca em aprender lógica — e o resto vem com o tempo.
 
 ---
 
@@ -19,7 +31,7 @@
 - [🧪 Funções (Métodos)](#-funções-métodos)
 - [✨ Pratique!](#-pratique)
 - [🔮 Desafios](#-desafios)
-- [👨‍💼 Sobre mim](#-sobre-mim)
+- [👨‍💼 Contatos](#-sobre-mim)
 
 ---
 
@@ -39,14 +51,25 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
-  <p><i>Vamos programar juntos?</i></p>
+  <p><i>Bora codar?</i></p>
 </div>
 
 ---
 
 ## 📈 Conceitos Básicos
 
-### 📊 Operadores Matemáticos
+
+O que é uma variável?
+
+Variáveis são elementos no código que irão receber um nome dado por você para armazenar algum valor, que pode sofrer
+alterações com o decorrer do código. Em Java, por ser uma linguagem tipada, ela exige que você declare o tipo dos elementos.
+
+Constante, semelhante a variável, também recebe um nome dado por você e armazena um valor, a diferença é que esse valor
+não tende a mudar com o decorrer do código, como a variável. 
+
+Classes são como moldes que definem o comportamento e as características de um objeto. Você pode imaginar como um modelo para criar vários objetos com as mesmas propriedades e ações.
+
+### Operadores Matemáticos
 
 | Operador | Significado     | Exemplo     | Resultado |
 |----------|------------------|-------------|-----------|
@@ -62,18 +85,43 @@
 
 ### 👨‍🔬 Tipos de Dados
 
+O tipo dos dados define o que e como ele vai armazenar. Por exemplo, o tipo int armazena numeros inteiros, então colocar int idade = 'Breno' não dará certo
+uma vez que meu nome é um conjunto de caracteres, não números inteiros. O mesmo vale para números com casas decimais.
+
+Float se resume a ser o tipo que armazena numeros com casas decimais. Além disso, mesmo que o número seja redondo e mesmo que você formate a saída, ele ainda vai trazer o 0 depois da ',', como por exemplo, 2.0.
+
+Char armazena apenas um caractere individuais, não aceitando conjuntos, que já vale como String.
+
+boolean aceita valores que retornam verdadeiro ou falso (true or false), como em 1 > 2 = false. Vê que a saída foi "false"? Isso ocorre porque o resultado não é verdade.
+
+String, caso tenha percebido, tem a letra maiúscula, sendo um tipo de objeto e não um tipo primitivo, como os demais citados anteriormente. Existe uma diferença importante nisso, inclusive o java
+olha para diferença de maiúscula e minúscula, ok? Int (objeto) é uma coisa, int é outra (tipo primitivo). Tipos primitivos são imutáveis e não aceitam outro tipo de valor.
+
+Em Programação Orientada a Objetos você vai ver isso melhor, fica tranquilo (a).
+
 ```java
-int idade = 25;           // Inteiro
-float nota = 9.5f;        // Decimal
-char letra = 'A';         // Caractere
-boolean ativo = true;     // Verdadeiro ou falso
-String nome = "João";     // Texto
+### 🧮 int (números inteiros)
+Armazena valores como 5, 10, 25...
+
+### 🔢 float (números com vírgula)
+Armazena valores com casas decimais, como 9.5f, 3.14f...
+
+💡 Dica: o `f` no final é obrigatório em Java!
+
+### 🔤 char (caractere único)
+Guarda apenas **um** caractere, como 'A', 'b', '9'
+
+### ✅ boolean
+Retorna `true` ou `false`, geralmente com base em comparações
+
+### 🧵 String
+Armazena textos como `"Olá mundo"`, `"Breno"` etc.
 ```
 
 **Regras para variáveis:**
 - Comece com letra ou `_`
 - Nada de acento ou espaços
-- Use `camelCase` para variáveis e `PascalCase` para classes
+- Use `camelCase` (primeira inicial minuscula e segunda, maiúscula) para variáveis e `PascalCase` (ambas iniciais maiúsculas) para classes
 
 ---
 
