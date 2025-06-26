@@ -4,6 +4,24 @@
 
 ---
 
+## 🗺 Navegação
+
+- [🛠 O que você vai aprender](#-o-que-você-vai-aprender)
+- [📈 Conceitos Básicos](#-conceitos-básicos)
+- [💭 O que é um Algoritmo?](#-o-que-é-um-algoritmo)
+- [💻 Ambiente de Desenvolvimento](#-ambiente-de-desenvolvimento)
+- [🔄 Condicionais](#-condicionais)
+- [📅 Entrada de Dados (Scanner)](#-entrada-de-dados-scanner)
+- [🔢 Estrutura Sequencial](#-estrutura-sequencial)
+- [🧲 Funções Matemáticas](#-funções-matemáticas)
+- [🧵 Vetores](#-vetores-arrays)
+- [🔢 Matrizes](#-matrizes-arrays-bidimensionais)
+- [🧪 Funções (Métodos)](#-funções-métodos)
+- [✨ Pratique!](#-pratique)
+- [👨‍💼 Sobre mim](#-sobre-mim)
+
+---
+
 ## 🛠 O que você vai aprender:
 
 - Conceitos básicos da programação
@@ -34,14 +52,12 @@
 | `+`      | Adição           | `2 + 3`     | `5`       |
 | `-`      | Subtração        | `5 - 2`     | `3`       |
 | `*`      | Multiplicação    | `4 * 2`     | `8`       |
-| `/`      | Divisão inteira  | `25 / 3`    | `8`       |
+| `/`      | Divisão inteira  | `25 / 3`    | `8` se for `int`, `8.33` se for `double` |
 | `%`      | Módulo (resto)   | `14 % 3`    | `2`       |
 
 **Prioridade:**
 1. `*`, `/`, `%`
 2. `+`, `-`
-
----
 
 ### 👨‍🔬 Tipos de Dados
 
@@ -96,7 +112,7 @@ public class HelloWorld {
 
 ## 🔄 Condicionais
 
-### 🔢 Operadores Relacionais
+### 📉 Operadores Relacionais
 
 ```java
 ==  // igual
@@ -152,6 +168,7 @@ String status = (idade >= 18) ? "Adulto" : "Menor";
 ```java
 int a = 5;
 double resultado = (double) a / 2;
+String texto = String.valueOf(123);
 ```
 
 ---
@@ -168,6 +185,8 @@ double altura = sc.nextDouble();
 char letra = sc.next().charAt(0);
 sc.close();
 ```
+
+💡 **Dica**: Sempre feche o Scanner com `sc.close()` para evitar vazamentos de memória!
 
 ---
 
@@ -195,7 +214,7 @@ Scanner sc = new Scanner(System.in).useLocale(Locale.US);
 
 ---
 
-## 🧮 Funções Matemáticas
+## 🧲 Funções Matemáticas
 
 ```java
 Math.sqrt(25);     // Raiz quadrada
@@ -252,21 +271,15 @@ public static void mostrar(String mensagem) {
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💼 Sobre mim
 
-Quer aprender mais ou colaborar?
+Me acompanhe ou entre em contato:
 
-- GitHub: [cssbreno](https://github.com/cssbreno)
-- Instagram: @css_breno
-- Email: cssbreno.dev@gmail.com
+- 👩‍💻 GitHub: [@cssbreno](https://github.com/cssbreno)
+- 📸 Instagram: [@css_breno](https://instagram.com/css_breno)
+- 📨 Email: [cssbreno.dev@gmail.com](mailto:cssbreno.dev@gmail.com)
 
 <div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/%E2%AD%90-Dê%20um%20Star-blue"/>
-  </a>
-  <a href="mailto:cssbreno.dev@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7-Contato-red"/>
-  </a>
   <a href="https://github.com/cssbreno/logica-do-zero/stargazers">
     <img src="https://img.shields.io/github/stars/cssbreno/logica-do-zero?style=social" alt="GitHub stars"/>
   </a>
