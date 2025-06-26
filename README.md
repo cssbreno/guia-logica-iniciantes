@@ -271,6 +271,32 @@ public static void mostrar(String mensagem) {
 
 ---
 
+## 🔮 Desafios
+
+Coloque seus conhecimentos em prática com esses desafios simples:
+
+### 1. Número maior
+
+Peça ao usuário para digitar 3 números e imprima qual é o maior entre eles.
+
+### 2. Média escolar
+
+Peça 2 notas (double), calcule a média e mostre se o aluno foi aprovado (média ≥ 6).
+
+### 3. Par ou Ímpar
+
+Leia um número inteiro e informe se ele é par ou ímpar.
+
+### 4. Calculadora básica
+
+Peça dois números e uma operação (+, -, *, /) e mostre o resultado.
+
+### 5. Contagem regressiva
+
+Leia um número inteiro positivo e mostre uma contagem regressiva até 0.
+
+---
+
 ## 👨‍💼 Sobre mim
 
 Quer aprender mais ou colaborar?
