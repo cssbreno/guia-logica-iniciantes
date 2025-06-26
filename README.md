@@ -275,7 +275,7 @@ public static void mostrar(String mensagem) {
 
 Quer aprender mais ou colaborar?
 
-- GitHub: [SeuPerfil](https://github.com/cssbreno)
+- GitHub: [Meu Perfil](https://github.com/cssbreno)
 - Instagram: @css_breno
 - Email: cssbreno.dev@gmail.com
 
