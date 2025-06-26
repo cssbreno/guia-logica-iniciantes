@@ -273,14 +273,21 @@ public static void mostrar(String mensagem) {
 
 ## 👨‍💼 Sobre mim
 
-Me acompanhe ou entre em contato:
+Quer aprender mais ou colaborar?
 
-- 👩‍💻 GitHub: [@cssbreno](https://github.com/cssbreno)
-- 📸 Instagram: [@css_breno](https://instagram.com/css_breno)
-- 📨 Email: [cssbreno.dev@gmail.com](mailto:cssbreno.dev@gmail.com)
+- GitHub: [SeuPerfil](https://github.com/cssbreno)
+- Instagram: @css_breno
+- Email: cssbreno.dev@gmail.com
 
 <div align="center">
-  <a href="https://github.com/cssbreno/logica-do-zero/stargazers">
+  <a href="#">
+    <img src="https://img.shields.io/badge/%E2%AD%90-Dê%20um%20Star-blue"/>
+  </a>
+  <a href="mailto:cssbreno.dev@gmail.com">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7-Contato-red"/>
+  </a>
+  <a href="https://github.com/cssbreno/guia-logica-iniciantes
+/stargazers">
     <img src="https://img.shields.io/github/stars/cssbreno/logica-do-zero?style=social" alt="GitHub stars"/>
   </a>
 </div>
