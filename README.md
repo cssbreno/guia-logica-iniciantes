@@ -426,5 +426,5 @@ Quer aprender mais ou colaborar?
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="200"/>
-  <p><i>Código é poesia. Continue praticando!</i></p>
+  <p><i>Programação é fácil, eles disseram!</i></p>
 </div>
