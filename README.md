@@ -134,17 +134,18 @@ Armazena textos como `"Olá mundo"`, `"Breno"` etc.
 
 > “Um passo a passo para resolver um problema.”
 
-`Algoritmo` é uma sequência de instruções que tem como objetivo resolver um problema.  
-Não me estenderei muito, mas sempre que você encara um problema e precisa pensar em uma solução, isso é um algoritmo.  
-A sequência de passos que você dá para cozinhar uma receita é um algoritmo. Curtiu a ideia?
+`Algoritmo` é uma sequencia de instruções que tem como objetivo resolver um problema. Não me estenderei muito,  
+mas sempre que você encara um problema e precisa pensar em uma solução, isso é um algoritmo. A sequencia de passos  
+que você dá para cozinhar uma receita são um algoritmo. Gostou?
 
-Quer se aprofundar? Recomendo o livro abaixo, que é excelente para iniciantes. (Não estou recebendo nada para isso, ok? kkkkkk)  
+Explora um pouco mais com o Livro abaixo, salva muito no começo. (Não to recebendo nada pra isso, ok? kkkkkk)
 
 [Entendendo Algoritmos - Livro Ilustrado para Programadores Curiosos](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634)
 
-Precisa de algo mais interativo? Dá uma olhada no curso do Gustavo Guanabara no Curso em Vídeo, que explica tudo com desenhos e ainda tem certificado.  
+Precisa de algo mais interativo? Vai no curso do Gustavo Guanabara, ele vai desenhar pra você sobre isso, e com direito  
+a certificado, tá?
 
-[Curso de Algoritmos no Curso em Vídeo](https://www.cursoemvideo.com/course/algoritmos/)
+[Curso em Vídeo - Algoritmos](https://www.cursoemvideo.com/course/algoritmos/)
 
 Exemplo:  
 ```pseudo
