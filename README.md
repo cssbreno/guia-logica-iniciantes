@@ -45,10 +45,8 @@
 Esse guia traz os fundamentos da programação com foco em quem tá começando do zero, usando Java como linguagem base.
 Você vai aprender desde o que é um algoritmo até a criação de funções, passando por variáveis, operadores, estruturas de decisão, vetores e mais.
 
----
-
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
   <p><i>Bora?</i></p>
 </div>
 
