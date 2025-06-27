@@ -398,11 +398,8 @@ Leia um número inteiro positivo e mostre uma contagem regressiva até 0.
 
 Quer aprender mais ou colaborar?
 
-- GitHub: [Meu Perfil](https://github.com/cssbreno)
-- Instagram: @css_breno
-- Email: cssbreno.dev@gmail.com
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/css_breno" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="55">
   </a>
@@ -414,14 +411,10 @@ Quer aprender mais ou colaborar?
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bfc87d16-6737-42b3-b232-0162cf0e9278" width="50" />
-  <p><i>Compartilhar conhecimento transforma. 💡</i></p>
-</div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="300"/>
   <p><i>Programação é fácil, eles disseram!</i></p>
 </div>
