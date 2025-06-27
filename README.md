@@ -157,11 +157,14 @@ Exemplo:
 
 ---
 
-## 💻 Ambiente de Desenvolvimento (Java)
+## 💻 Ambiente de Desenvolvimento (IDE)
+
+Nada mais é do que o ambiente que você coda. Existem IDEs que possuem mais recursos para determinadas linguagens,
+o que te direciona para escolher a medida que se encaixar com suas necessidades.
 
 - **IDE**: Onde você programa (Ex: Eclipse, IntelliJ, VSCode)
 - **Compilador**: Traduz seu código para bytecode
-- **JVM**: Executa o bytecode em qualquer sistema
+- **JVM**: Executa o bytecode em qualquer sistema (Java)
 
 Exemplo básico em Java:
 ```java
@@ -176,7 +179,27 @@ public class HelloWorld {
 
 ## 🔄 Condicionais
 
+💡 Condicionais são estruturas que permitem criar cenários baseados em comparações ou verificações.
+
+Por exemplo: “Se eu for maior de 18 anos, posso ingerir bebidas alcoólicas.”
+Isso é uma condição sendo aplicada.
+
+Em programação, as condicionais servem exatamente pra isso: tomar decisões com base em valores.
+Elas se dividem em:
+
+- Operadores relacionais (comparam valores);
+
+- Operadores lógicos (criam combinações de condições).
+
 ### 📉 Operadores Relacionais
+
+São usados pra comparar 2 valores. Por exemplo:
+
+X é igual a Y?
+
+A é maior que B?
+
+Essas comparações retornam um resultado booleano: true (verdadeiro) ou false (falso).
 
 ```java
 ==  // igual
@@ -185,6 +208,18 @@ public class HelloWorld {
 <   // menor
 >=  // maior ou igual
 <=  // menor ou igual
+```
+Exemplo:
+
+```
+java
+Copiar
+Editar
+int a = 10;
+int b = 20;
+
+System.out.println(a == b);  // false
+System.out.println(a < b);   // true
 ```
 
 ### 🔄 Operadores Lógicos
