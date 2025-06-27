@@ -134,20 +134,29 @@ Armazena textos como `"Olá mundo"`, `"Breno"` etc.
 
 > “Um passo a passo para resolver um problema.”
 
-Exemplo:
+`Algoritmo` é uma sequência de instruções que tem como objetivo resolver um problema.  
+Não me estenderei muito, mas sempre que você encara um problema e precisa pensar em uma solução, isso é um algoritmo.  
+A sequência de passos que você dá para cozinhar uma receita é um algoritmo. Curtiu a ideia?
+
+Quer se aprofundar? Recomendo o livro abaixo, que é excelente para iniciantes. (Não estou recebendo nada para isso, ok? kkkkkk)  
+
+[Entendendo Algoritmos - Livro Ilustrado para Programadores Curiosos](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634)
+
+Precisa de algo mais interativo? Dá uma olhada no curso do Gustavo Guanabara no Curso em Vídeo, que explica tudo com desenhos e ainda tem certificado.  
+
+[Curso de Algoritmos no Curso em Vídeo](https://www.cursoemvideo.com/course/algoritmos/)
+
+Exemplo:  
 ```pseudo
 1. Leia um número
 2. Multiplique por 2
 3. Mostre o resultado
 ```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="300"/>
-</div>
+<div align="center"> <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="300"/> </div>
 
 ---
 
-## 💻 Ambiente de Desenvolvimento
+## 💻 Ambiente de Desenvolvimento (Java)
 
 - **IDE**: Onde você programa (Ex: Eclipse, IntelliJ, VSCode)
 - **Compilador**: Traduz seu código para bytecode
