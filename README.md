@@ -1,4 +1,4 @@
-# Lógica de Programação - facilitando sua vida
+# 🧠 Lógica de Programação - facilitando sua vida
 
 > E aí, pessoal!  
 >  
@@ -12,7 +12,7 @@
 >  
 > A forma como você pensa, estrutura e resolve problemas é o que vai definir a qualidade das suas soluções. A linguagem é só a ferramenta que traduz isso em código.  
 >  
-> Foca em aprender lógica — e o resto vem com o tempo.
+> Foca em aprender lógica — e o resto vem com o tempo. 💡
 
 ---
 
@@ -59,15 +59,15 @@
 ## 📈 Conceitos Básicos
 
 
-O que é uma variável?
+### O que é uma variável?
 
-Variáveis são elementos no código que irão receber um nome dado por você para armazenar algum valor, que pode sofrer
-alterações com o decorrer do código. Em Java, por ser uma linguagem tipada, ela exige que você declare o tipo dos elementos.
+Variáveis são elementos no código que irão receber um nome dado por você para armazenar algum valor, que pode sofrer alterações com o decorrer do código.  
+Em Java, por ser uma linguagem tipada, ela exige que você declare o tipo dos elementos.
 
-Constante, semelhante a variável, também recebe um nome dado por você e armazena um valor, a diferença é que esse valor
-não tende a mudar com o decorrer do código, como a variável. 
+**Constante:** semelhante à variável, também recebe um nome dado por você e armazena um valor, a diferença é que esse valor **não tende a mudar** com o decorrer do código, como a variável.
 
-Classes são como moldes que definem o comportamento e as características de um objeto. Você pode imaginar como um modelo para criar vários objetos com as mesmas propriedades e ações.
+**Classes:** são como moldes que definem o comportamento e as características de um objeto.  
+Você pode imaginar como um modelo para criar vários objetos com as mesmas propriedades e ações.
 
 ### Operadores Matemáticos
 
@@ -85,19 +85,24 @@ Classes são como moldes que definem o comportamento e as características de um
 
 ### 👨‍🔬 Tipos de Dados
 
-O tipo dos dados define o que e como ele vai armazenar. Por exemplo, o tipo int armazena numeros inteiros, então colocar int idade = 'Breno' não dará certo
-uma vez que meu nome é um conjunto de caracteres, não números inteiros. O mesmo vale para números com casas decimais.
 
-Float se resume a ser o tipo que armazena numeros com casas decimais. Além disso, mesmo que o número seja redondo e mesmo que você formate a saída, ele ainda vai trazer o 0 depois da ',', como por exemplo, 2.0.
+O tipo dos dados define o que e como ele vai armazenar.  
+Por exemplo, o tipo `int` armazena números inteiros, então colocar `int idade = 'Breno'` não dará certo, pois meu nome é um conjunto de caracteres, não números inteiros. O mesmo vale para números com casas decimais.
 
-Char armazena apenas um caractere individuais, não aceitando conjuntos, que já vale como String.
+`float` se resume a ser o tipo que armazena números com casas decimais.  
+Além disso, mesmo que o número seja redondo e mesmo que você formate a saída, ele ainda vai trazer o 0 depois da vírgula, como por exemplo, `2.0`.
 
-boolean aceita valores que retornam verdadeiro ou falso (true or false), como em 1 > 2 = false. Vê que a saída foi "false"? Isso ocorre porque o resultado não é verdade.
+`char` armazena apenas um caractere individual, não aceitando conjuntos, que já valem como `String`.
 
-String, caso tenha percebido, tem a letra maiúscula, sendo um tipo de objeto e não um tipo primitivo, como os demais citados anteriormente. Existe uma diferença importante nisso, inclusive o java
-olha para diferença de maiúscula e minúscula, ok? Int (objeto) é uma coisa, int é outra (tipo primitivo). Tipos primitivos são imutáveis e não aceitam outro tipo de valor.
+`boolean` aceita valores que retornam verdadeiro ou falso (`true` ou `false`), como em `1 > 2 = false`.  
+Vê que a saída foi **"false"**? Isso ocorre porque o resultado não é verdade.
+
+`String`, caso tenha percebido, tem a letra maiúscula, sendo um tipo de **objeto** e não um tipo primitivo, como os demais citados anteriormente.  
+Existe uma diferença importante nisso, inclusive o Java olha para diferença de maiúscula e minúscula, ok? `Int` (objeto) é uma coisa, `int` é outra (tipo primitivo).  
+Tipos primitivos são imutáveis e não aceitam outro tipo de valor.
 
 Em Programação Orientada a Objetos você vai ver isso melhor, fica tranquilo (a).
+
 
 ```java
 ### 🧮 int (números inteiros)
