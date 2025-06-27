@@ -191,6 +191,8 @@ Elas se dividem em:
 
 - Operadores lógicos (criam combinações de condições).
 
+<hr>
+
 ### 📉 Operadores Relacionais
 
 São usados pra comparar 2 valores. Por exemplo:
