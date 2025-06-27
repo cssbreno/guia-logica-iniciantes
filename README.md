@@ -215,8 +215,6 @@ Exemplo:
 
 ```
 java
-Copiar
-Editar
 int a = 10;
 int b = 20;
 
