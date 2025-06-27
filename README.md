@@ -191,7 +191,7 @@ Elas se dividem em:
 
 - Operadores lógicos (criam combinações de condições).
 
-<hr>
+
 
 ### 📉 Operadores Relacionais
 
