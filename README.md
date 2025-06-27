@@ -14,6 +14,11 @@
 >  
 > Foca em aprender lógica — e o resto vem com o tempo. 💡
 
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1c3f9e6c-5b0e-4031-90f1-4dfd1b7b6b62" width="300"/>
+  <p><i>Aprender pode ser divertido! 🚀</i></p>
+</div>
+
 ---
 
 ## 🗺 Navegação
@@ -37,21 +42,14 @@
 
 ## 🛠 O que você vai aprender:
 
-- Conceitos básicos da programação
-- Tipos de dados e variáveis
-- Estruturas condicionais (if, else, switch)
-- Operadores lógicos e matemáticos
-- Condições ternárias e casting
-- Entrada e saída de dados com `Scanner`
-- Estruturas sequenciais
-- Funções matemáticas básicas
-- Vetores e matrizes
+Esse guia traz os fundamentos da programação com foco em quem tá começando do zero, usando Java como linguagem base.
+Você vai aprender desde o que é um algoritmo até a criação de funções, passando por variáveis, operadores, estruturas de decisão, vetores e mais.
 
 ---
 
 <div align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
-  <p><i>Bora codar?</i></p>
+  <p><i>Bora?</i></p>
 </div>
 
 ---
@@ -405,7 +403,23 @@ Quer aprender mais ou colaborar?
 - Email: cssbreno.dev@gmail.com
 
 <div align="center">
-  
+  <a href="https://github.com/cssbreno" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/css_breno" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:cssbreno.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/cssbreno" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bfc87d16-6737-42b3-b232-0162cf0e9278" width="250" />
+  <p><i>Compartilhar conhecimento transforma. 💡</i></p>
 </div>
 
 ---
