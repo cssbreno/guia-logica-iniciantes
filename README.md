@@ -414,7 +414,7 @@ Quer aprender mais ou colaborar?
 
 ---
 
-<div align="left">
+<div align="center">
   <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="450"/>
   <p><i>Programação é fácil, eles disseram!</i></p>
 </div>
